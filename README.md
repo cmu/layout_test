@@ -4,15 +4,19 @@ Rails asset gem
 
 ## Installation
 
-Add this line to your application's Gemfile:
+**Step 1** 
+
+Load in your Gemfile
 
     gem 'layout_test', :git => 'git@github.com:cmu/layout_test.git'
 
-And then execute:
+**Step 2** 
 
-    $ bundle
+    Run 'bundle install'
 
-Einfügen in der application.css
+**Step 3** 
+
+Require in your CSS manifest (e.g. application.css)
 
     *= require layout
     *= require typo

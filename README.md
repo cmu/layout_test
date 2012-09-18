@@ -1,6 +1,6 @@
 # LayoutTest
 
-TODO: Write a gem description
+Rails asset gem
 
 ## Installation
 

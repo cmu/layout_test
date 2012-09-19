@@ -20,3 +20,7 @@ Require in your CSS manifest (e.g. application.css)
 
     *= require layout
     *= require typo
+
+Require in your JS manifest (e.g. application.js)
+
+    //= require alert
